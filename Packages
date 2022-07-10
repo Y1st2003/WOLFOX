@@ -1,0 +1,32 @@
+Package: WOLFOX
+Version: 6.5
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: /WOLFOX_6.5_iphoneos-arm.deb
+Size: 2836978
+MD5sum: d0e032b2b129a18524eb405ba23f807e
+SHA1: 8067d10824388139ab3b100488cf616274782ddc
+SHA256: a815fa8141d75dbf49e915ce499c1c77ac6bab54a206155eb11a7bbe3c394825
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXGL
+
+Package: WOLFOX
+Version: 6.7
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: /WOLFOX_6.7_iphoneos-arm.deb
+Size: 2071392
+MD5sum: 8b5d1c8e901c2755f9793ed816ba6c38
+SHA1: c897971f4089d91e95fd2eca2dd66838a9a0c980
+SHA256: 37cb70bd6b535cd5c299b628e2623cb1c7787897ea944c1055f66a91bf236445
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXGL
+
