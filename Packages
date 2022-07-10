@@ -1,20 +1,4 @@
 Package: WOLFOX
-Version: 6.5
-Architecture: iphoneos-arm
-Maintainer: WOLFOX
-Installed-Size: 904
-Depends: mobilesubstrate
-Filename: /WOLFOX_6.5_iphoneos-arm.deb
-Size: 2836978
-MD5sum: d0e032b2b129a18524eb405ba23f807e
-SHA1: 8067d10824388139ab3b100488cf616274782ddc
-SHA256: a815fa8141d75dbf49e915ce499c1c77ac6bab54a206155eb11a7bbe3c394825
-Section: Tweaks
-Description: WOLFOX
-Author: WOLFOX
-Name: WOLFOXGL
-
-Package: WOLFOX
 Version: 6.7
 Architecture: iphoneos-arm
 Maintainer: WOLFOX
@@ -29,4 +13,20 @@ Section: Tweaks
 Description: WOLFOX
 Author: WOLFOX
 Name: WOLFOXGL
+
+Package: www.menu.ink
+Version: 0.00
+Architecture: iphoneos-arm
+Maintainer: GTX
+Installed-Size: 2875
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: /免费S19坐标追 自备防 带物资显示(图片文字混合模式).deb
+Size: 4309588
+MD5sum: 828abc66f668b427408b46f327dc4708
+SHA1: 5a7bc2a7fd39a18103e9a031703d20cd39b2772a
+SHA256: c36625482b4a89505b6a8061d3df0c1f0264620bf6651ad315a6053013a2b67c
+Section: Tweaks
+Description: 仅供娱乐 请勿用于非法用途
+Author: GTX
+Name: GTX
 
