@@ -14,19 +14,83 @@ Description: WOLFOX
 Author: WOLFOX
 Name: WOLFOXGL
 
-Package: www.menu.ink
-Version: 0.00
+Package: WOLFOXBM
+Version: 555
 Architecture: iphoneos-arm
-Maintainer: GTX
-Installed-Size: 2875
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/免费S19坐标追 自备防 带物资显示(图片文字混合模式).deb
-Size: 4309588
-MD5sum: 828abc66f668b427408b46f327dc4708
-SHA1: 5a7bc2a7fd39a18103e9a031703d20cd39b2772a
-SHA256: c36625482b4a89505b6a8061d3df0c1f0264620bf6651ad315a6053013a2b67c
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/WOLFOXBM_555_iphoneos-arm.deb
+Size: 1829880
+MD5sum: cfba78ff6df6be1aed8482d9ec435178
+SHA1: 27b70905446ec3e8cb65904008e5e013d913414b
+SHA256: bb9b70b18f5d6c5ca2f280229545a7ff4d41fbed9d9d1c5ed9d890bf68ce1d41
 Section: Tweaks
-Description: 仅供娱乐 请勿用于非法用途
-Author: GTX
-Name: GTX
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXBM
+
+Package: WOLFOXGL
+Version: 555
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/WOLFOXGL_555_iphoneos-arm.deb
+Size: 1829954
+MD5sum: 6d74bbbf970bdce8d7270d233b46f37c
+SHA1: 8c8cbdf23a3cfb829a1bf224962422dc36eafaf3
+SHA256: cfe180aad091210ad536cccdbc67b4d1d0ac11a6ac08d1bb724e9409eed212ef
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXGL
+
+Package: WOLFOXKR
+Version: 555
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/WOLFOXKR_555_iphoneos-arm.deb
+Size: 1829876
+MD5sum: 6cbb8e3a462567b024f490436d4b859c
+SHA1: de48a785003a192a4b8441972d1302081f99cb81
+SHA256: 4548f5f304787a2cc40e8a51d6f5c58277767680ff5440a59cf694e6334a8d4f
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXKR
+
+Package: WOLFOXTW
+Version: 555
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/WOLFOXTW_555_iphoneos-arm.deb
+Size: 1829946
+MD5sum: 1121ccaca4fded5fe5a642c47444d9f4
+SHA1: 096f8dd11359b7a34c7ed91f4a4d8636de458350
+SHA256: e1cb956fd5620d7b8fbab2e3eb89e269157de03a925817acd7f41670ac69d74e
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXTW
+
+Package: WOLFOXVN
+Version: 555
+Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./debs/WOLFOXVN_555_iphoneos-arm.deb
+Size: 1829884
+MD5sum: d7290824f016b4ff10985f567d732bbe
+SHA1: 8d9af241a74e93d3bda4d3cce06ec21f4c54b8b3
+SHA256: a13f4dd61129f31d54b3bdee38e38451b88dc954b53b7e743006d00be11766c5
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOXVN
 
