@@ -1,3 +1,19 @@
+Package: Fangzhou
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Y1st
+Installed-Size: 2104480
+Depends: mobilesubstrate
+Filename: ./debs/Fangzhou_0.0.1_iphoneos-arm.deb
+Size: 802456
+MD5sum: f0033f12f69e10fefd7916b986ca3144
+SHA1: 797677cece1d8d869000a7c35fe3014f71409acb
+SHA256: e7cc61b56848b4d9133036a4fa0cd4e0400cfe6d554b80a061fa710d8c14bf31
+Section: Tweaks
+Description: 仅供娱乐
+Author: Y1st
+Name: 方舟
+
 Package: WOLFOX
 Version: 6.7
 Architecture: iphoneos-arm
