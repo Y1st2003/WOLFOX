@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: WOLFOX
 Installed-Size: 904
 Depends: mobilesubstrate
-Filename: /WOLFOX_6.7_iphoneos-arm.deb
+Filename: ./debs/WOLFOX_6.7_iphoneos-arm.deb
 Size: 2071392
 MD5sum: 8b5d1c8e901c2755f9793ed816ba6c38
 SHA1: c897971f4089d91e95fd2eca2dd66838a9a0c980
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: GTX
 Installed-Size: 2875
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /免费S19坐标追 自备防 带物资显示(图片文字混合模式).deb
+Filename: ./debs/免费S19坐标追 自备防 带物资显示(图片文字混合模式).deb
 Size: 4309588
 MD5sum: 828abc66f668b427408b46f327dc4708
 SHA1: 5a7bc2a7fd39a18103e9a031703d20cd39b2772a
